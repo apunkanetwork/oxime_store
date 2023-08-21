@@ -123,9 +123,21 @@ async def not_joined(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton(
-                "Join Channel",
-                url = "https://t.me/Ragna_Crimso")
-        ]
+                "🔰 Join Channel",
+                url = "https://t.me/+3j09rUVRk5ZmOGJl")
+        ],[
+            InlineKeyboardButton(
+                "🔰 Join 2nd  Channel",
+                url = "https://t.me/+xeLO2_u6JMI4ZWM1")
+          ],[
+            InlineKeyboardButton(
+                "🔰 Join 3rd Channel",
+                url = "https://t.me/+bitF5pAyUjkwNGQx")
+            ],[
+            InlineKeyboardButton(
+                "🔰 Join 4th Channel",
+                url = "https://t.me/+WFIfxRgxZuw0NjU1")
+              ]
     ]
     try:
         buttons.append(
