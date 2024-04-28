@@ -124,7 +124,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "🔰 Add Best Movies",
-                url = "https://t.me/addlist/S6oIzfPEaAAyOTYx")
+                url = "https://t.me/addlist/B9QMCY7GdKIxYTEx")
         ]
     ]
     try:
