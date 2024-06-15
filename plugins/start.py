@@ -127,9 +127,13 @@ async def not_joined(client: Client, message: Message):
                 url = "https://t.me/+yrmCyBDuXio3YWVl")
         ],[
             InlineKeyboardButton(
+                "🔰 Join Spicy channel",
+                url = "https://t.me/+eYekhGlhZCRmOTNl")
+          ],[
+            InlineKeyboardButton(
                 "🔰 Add Best Movies",
                 url = "https://t.me/addlist/vcxKyNFJX1w3YjVh")
-          ]
+            ]
     ]
     try:
         buttons.append(
