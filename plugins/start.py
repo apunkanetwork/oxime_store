@@ -124,11 +124,11 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "🔰 Join Channel ",
-                url = "https://t.me/+yrmCyBDuXio3YWVl")
+                url = "https://t.me/+eYekhGlhZCRmOTNl")
         ],[
             InlineKeyboardButton(
                 "🔰 Join Spicy channel",
-                url = "https://t.me/+eYekhGlhZCRmOTNl")
+                url = "https://t.me/+yrmCyBDuXio3YWVl")
           ],[
             InlineKeyboardButton(
                 "🔰 Add Best Movies",
