@@ -46,7 +46,7 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>📽To Get Your Movie:- \n\nPlease click on the given link below\n 🔑 Click Add 'Best Movies'\n\n 📌 Then Click Try Again U Will Get Your Movie 💫</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>📽To Get Your Movie:- \n\nPlease join in the given 4 channel below\n\n 📌 Then Click Try Again U Will Get Your Movie 💫</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
